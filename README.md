@@ -6,7 +6,7 @@ Este projeto foi desenvolvido como solução do desafio técnico de um processo 
 
 ## Estrutura
 
-- **BancoMod.py**: Spript responsável pela criação da tabela `leitura_sensor`, presente no arquivo **BancoDesafio**, inserção e acesso aos dados da tabela.
+- **BancoMod.py**: Script responsável pela criação da tabela `leitura_sensor`, presente no arquivo **BancoDesafio**, inserção e acesso aos dados da tabela.
 - **APIConstruct.py**: Construção da API para recepção de dados de sensores via POST requests e requisição dos dados armazenados via GET request.
 - **GerarCSV.py**: Script para gerar um arquivo CSV a partir dos dados exemplificados no desafio para realização de testes.
 - **MainPage.py**: Interface do usuário usando Streamlit para visualização dos dados dos sensores e input de arquivos.
